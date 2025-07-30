@@ -27,10 +27,10 @@ The project includes:
 > **Note:** This repo contains only the **codebase**.  
 > The **preprocessed dataset** (based on DocLayNet) used for training is **not included** due to its large size.
 
-If you want access to the dataset:
+If you want access to the preprocessed dataset:
 - Please contact **[@anmol52490](https://github.com/anmol52490)**.
 
-The **trained model files** can be accessed from Drive due to it's large size **[Drive](https://drive.google.com/drive/folders/1CCFnlS8As2uwVTsqYWie4p2RL9H7aJFH?usp=drive_link).
+The **trained model files** can be accessed from Drive due to it's large size **[Drive](https://drive.google.com/drive/folders/1CCFnlS8As2uwVTsqYWie4p2RL9H7aJFH?usp=drive_link)**.
 ## 🛠 Tools & Libraries
 
 - Python, PyTorch, HuggingFace Transformers, Datasets
